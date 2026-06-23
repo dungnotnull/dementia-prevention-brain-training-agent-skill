@@ -1,0 +1,71 @@
+MIT License
+
+Copyright (c) 2026 Dementia Prevention Brain Training Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+MEDICAL DISCLAIMER ADDENDUM:
+
+This software provides educational wellness information only. It is not a
+medical diagnosis, clinical assessment, or medical treatment. It does not
+replace consultation with licensed neurologists, geriatricians,
+neuropsychologists, or other qualified healthcare professionals.
+
+Individual responses to cognitive training vary significantly. Some conditions
+require medical supervision before starting any new cognitive training program.
+
+The authors, contributors, and distributors of this software:
+
+1. Are not licensed healthcare providers and are not providing medical advice
+2. Make no warranties or representations about the medical efficacy of any
+   recommendations contained in this software
+3. Assume no liability for any consequences arising from the use of this
+   software, including but not limited to health outcomes
+4. Recommend that all users consult with qualified healthcare professionals
+   before beginning any cognitive training program
+
+Users should stop all exercises and consult a physician immediately if they
+experience:
+- Sudden confusion, disorientation, or significantly worsened memory
+- New headaches, vision changes, or speech difficulties
+- Dizziness, fainting, or falls during or after exercise sessions
+- Significant emotional distress or anxiety triggered by exercises
+- Any new neurological symptom not previously present
+
+This software is a supportive educational tool. Your healthcare team is your
+primary partner in dementia prevention and cognitive wellness.
+
+---
+
+ATtribution Requirements:
+
+When distributing this software or derivative works, you must:
+
+1. Retain all medical disclaimers in their entirety
+2. Cite the foundational clinical trials referenced:
+   - FINGER Trial: Ngandu et al. (2015). Lancet.
+   - ACTIVE Study: Rebok et al. (2014). JAMA Internal Medicine.
+   - And other peer-reviewed sources cited in SECOND-KNOWLEDGE-BRAIN.md
+3. Include this LICENSE file in all distributions
+4. Clearly label the software as "educational, not clinical"
+
+These attribution requirements are in addition to, and not in lieu of, the
+MIT License conditions above.

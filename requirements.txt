@@ -1,0 +1,41 @@
+# Dementia Prevention Brain Training - Python Dependencies
+# =====================================================
+# Install with: pip install -r requirements.txt
+
+# Core dependencies for knowledge_updater.py
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Web crawling for knowledge updates
+crawl4ai>=0.2.0
+
+# Async runtime (included with Python 3.7+)
+# asyncio (built-in)
+
+# Optional dependencies for enhanced functionality
+# ====================================================
+
+# For better HTML parsing
+html5lib>=1.1
+
+# For rate limiting and retries
+tenacity>=8.2.0
+
+# For better logging
+colorlog>=6.7.0
+
+# For data validation (future use)
+# pydantic>=2.0.0
+
+# For testing (future use)
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
+# pytest-cov>=4.1.0
+
+# Development dependencies (optional)
+# ====================================
+# black>=23.7.0      # Code formatting
+# isort>=5.12.0     # Import sorting
+# flake8>=6.0.0     # Linting
+# mypy>=1.4.0       # Type checking
